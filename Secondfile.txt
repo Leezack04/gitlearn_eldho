@@ -1,2 +1,3 @@
 This is the second file by another person
-This is the second change happended
+This is the second change happended earlier
+this is my newline
