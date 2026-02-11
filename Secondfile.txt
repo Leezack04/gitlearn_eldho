@@ -1,3 +1,5 @@
 This is the second file by another person
-This is the second change happended earlier
-this is my newline
+This is the second change happended
+This is the third line and change
+changed are made
+This is the last line please accept
